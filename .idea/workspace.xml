@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e6bbd9b-0247-4722-926a-2b638bd3c812" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LLDPracticeRepoKeerti.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LoggerFactoryRedesign/DebugLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LoggerFactoryRedesign/DebugLoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LoggerFactoryRedesign/ErrorLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LoggerFactoryRedesign/FactoryDesignFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LoggerFactoryRedesign/ILogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LoggerFactoryRedesign/ILoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LoggerFactoryRedesign/InfoLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LoggerFactoryRedesign/InfoLoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SimpleFactoryDesignPattern/DebugLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SimpleFactoryDesignPattern/ErrorLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SimpleFactoryDesignPattern/ILogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SimpleFactoryDesignPattern/InfoLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SimpleFactoryDesignPattern/LoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SimpleFactoryDesignPattern/SimpleFactoryDesignFactory.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/LoggerFactoryRedesign/DebugLoggerFactory.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/LoggerFactoryRedesign/FactoryDesignFactory.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/LoggerFactoryRedesign/ILogger.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/LoggerFactoryRedesign/ILoggerFactory.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/LoggerFactoryRedesign/InfoLoggerFactory.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ViH3lZkFqA2II3xUBX4F1hHL8j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "/Users/u0s00fe/Documents/Urv/LLDPracticeRepoKeerti/src/main/java",
+    "last_opened_file_path": "/Users/u0s00fe/Documents/Urv/LLDPracticeRepoKeerti/src/main/java/SimpleFactoryDesignPattern",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.51724136",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/SimpleFactoryDesignPattern" />
+      <recent name="$PROJECT_DIR$/src/main/java/LoggerFactoryRedesign" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LoggerFactoryRedesign.SimpleFactoryDesignPattern" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LoggerFactoryRedesign.FactoryDesignFactory">
+    <configuration name="FactoryDesignFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoggerFactoryRedesign.SimpleFactoryDesignPattern.FactoryDesignFactory" />
+      <module name="LLDPracticeRepoKeerti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoggerFactoryRedesign.SimpleFactoryDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoggerFactoryRedesign.FactoryDesignFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoggerFactoryRedesign.FactoryDesignFactory" />
+      <module name="LLDPracticeRepoKeerti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoggerFactoryRedesign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoggerFactoryRedesign.SimpleFactoryDesignFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoggerFactoryRedesign.SimpleFactoryDesignFactory" />
+      <module name="LLDPracticeRepoKeerti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoggerFactoryRedesign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFactoryDesignFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleFactoryDesignPattern.SimpleFactoryDesignFactory" />
+      <module name="LLDPracticeRepoKeerti" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoggerFactoryRedesign.FactoryDesignFactory" />
+        <item itemvalue="Application.LoggerFactoryRedesign.SimpleFactoryDesignFactory" />
+        <item itemvalue="Application.SimpleFactoryDesignFactory" />
+        <item itemvalue="Application.FactoryDesignFactory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e6bbd9b-0247-4722-926a-2b638bd3c812" name="Changes" comment="" />
+      <created>1695311787312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695311787312</updated>
+    </task>
+    <task id="LOCAL-00001" summary="New Repo">
+      <created>1695313556277</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695313556278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Repo" />
+  </component>
+</project>
